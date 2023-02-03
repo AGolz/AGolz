@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/51645091/216479755-1474ef23-fe16-4e0d-853c-0d6507138370.svg" align="right" width="130" hight="130">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AGolz)](https://git.io/streak-stats)
 
