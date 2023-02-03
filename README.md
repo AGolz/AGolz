@@ -3,17 +3,12 @@
 Since 2021, a student of the School of Computer Science ["Ecole 42"](https://www.42.fr)
  <img src="https://user-images.githubusercontent.com/51645091/216479755-1474ef23-fe16-4e0d-853c-0d6507138370.svg" align="right" width="90" hight="90">
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGolz&theme=solarized_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGolz&theme=solarized_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGolz&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AGolz&theme=solarized_dark)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark)
