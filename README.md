@@ -21,7 +21,11 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 
 
 <img src="https://user-images.githubusercontent.com/51645091/217027194-f6271d40-c9cd-45f0-ba82-21cb3525242c.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217027221-93f4140d-17b9-42b2-84e0-85319d79d028.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217027530-ed820686-e669-4491-943d-13823e19f3fc.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217027643-84297865-9ccb-4717-838d-3d6436450ea9.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217027797-fe4a1854-468e-496e-9286-3d519fe521c3.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217027896-6e09972a-2109-4d32-8d13-81da654326e7.svg" align="left" width="60" hight="60"><img src="https://user-images.githubusercontent.com/51645091/217028181-75af0ad3-04af-4b32-a785-bb4ef90bf98b.svg" align="left" width="60" hight="60"> 
-  
+ 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGolz&theme=solarized_dark)
