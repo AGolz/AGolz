@@ -45,8 +45,8 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 <br/>
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGolz&theme=solarized_dark" align="left">
-<img src="https://raw.githubusercontent.com/AGolz/github-stats/b1731653920306f8386788a116f83fc303ecb2c8/github_stats.svg" align="right"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGolz&theme=solarized_dark" align="left"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGolz&theme=solarized_dark" align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark" align="left"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark" align="left">
+<img src="https://raw.githubusercontent.com/AGolz/github-stats/b1731653920306f8386788a116f83fc303ecb2c8/github_stats.svg" align="right">
 
