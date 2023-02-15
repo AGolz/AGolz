@@ -9,7 +9,7 @@
 	<a href="https://www.linkedin.com/in/agolz/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://t.me/Alyona_Golz"
+	<a href="https://t.me/Alyona_Golz/">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
