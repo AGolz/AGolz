@@ -7,7 +7,7 @@
                         <h3>Developer from Yerevan, Armenia</h3>
 																								
 </div>
-<div id="socials" align="right">
+<div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/agolz/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
