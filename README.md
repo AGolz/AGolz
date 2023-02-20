@@ -60,5 +60,10 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 <div id="stat_github" align="center">
 	<img src="https://raw.githubusercontent.com/AGolz/github-stats/b1731653920306f8386788a116f83fc303ecb2c8/github_stats.svg"/>
 </div>
+<br/>
+<br/>
+Looks like that's it (:
 
+![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=AGolz)
