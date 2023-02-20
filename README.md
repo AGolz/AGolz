@@ -3,7 +3,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3892F7FF&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=Welcome+to+GitHub+Page+AGolz!"/>
 </div>	
 <div id="header" align="left">
-	<h1> Hi there, I'm Alyona</h1>
+	<h1> Hi there, I'm Alyona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 	<h3>Developer from Yerevan, Armenia</h3>
 </div>
 <div id="socials" align="left">
