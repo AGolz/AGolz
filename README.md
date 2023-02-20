@@ -1,4 +1,3 @@
-
 <div id="welcome" align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3892F7FF&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=Welcome+to+GitHub+Page+AGolz!"/>
 </div>	
@@ -59,7 +58,7 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 </div>
 <br/>
 <p align='center'>
-  <img align="center" src="./github_stats.svg">
+  <img align="center" src="https://github.com/AGolz/github-stats/blob/master/github_stats.svg"
 </p>
 <br/>
 <br/>
