@@ -62,6 +62,7 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 </p>
 <br/>
 <br/>
+
 Looks like that's it (:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AGolz)
