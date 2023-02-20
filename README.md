@@ -1,11 +1,10 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3892F7FF&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=Welcome+to+GitHub+Page+AGolz!)
-
-<div id="header" align="centr">
-                        <h1> Hi there, I'm Alyona</h1>
-                        <h3>Developer from Yerevan, Armenia</h3>
-																								
+<div id="welcome" align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3892F7FF&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=Welcome+to+GitHub+Page+AGolz!"/>
+</div>	
+<div id="header" align="left">
+	<h1> Hi there, I'm Alyona</h1>
+	<h3>Developer from Yerevan, Armenia</h3>
 </div>
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/agolz/">
@@ -53,9 +52,9 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3892F7FF&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=My+stat)
 
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGolz&theme=solarized_dark" width="300" height="300"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGolz&theme=solarized_dark" width="300" height="300"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark" width="300" height="300"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AGolz&theme=solarized_dark" width="300" height="200"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AGolz&theme=solarized_dark" width="300" height="200"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark" width="300" height="200"/>
 </div>
 <br/>
 <div id="stat_github" align="center">
