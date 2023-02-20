@@ -58,9 +58,11 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AGolz&theme=solarized_dark" width="300" height="200"/>
 </div>
 <br/>
-<div id="stat_github" align="center">
-	<img src="https://raw.githubusercontent.com/AGolz/github-stats/b1731653920306f8386788a116f83fc303ecb2c8/github_stats.svg"/>
-</div>
+<p align="center" >
+  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
 <br/>
 <br/>
 Looks like that's it (:
