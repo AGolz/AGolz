@@ -64,6 +64,8 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 </p>
 <br/>
 <br/>
+	
+[My CV](https://github.com/AGolz/AGolz/files/10815440/CV_Maksimova.pdf)
 
 Looks like that's it (:
 
