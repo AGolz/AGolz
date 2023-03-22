@@ -48,6 +48,7 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 <img src="https://user-images.githubusercontent.com/51645091/217027797-fe4a1854-468e-496e-9286-3d519fe521c3.svg" title="Git" width="70" height="70"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/51645091/217027221-93f4140d-17b9-42b2-84e0-85319d79d028.svg" title="MySQL" width="70" height="70"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/51645091/217027530-ed820686-e669-4491-943d-13823e19f3fc.svg" title="PostgreSQL" width="70" height="70"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/51645091/226992692-12753ecd-2ad4-4208-8cce-ff88a1d552a4.svg" title="AWSEC2" width="70" height="70"/>&nbsp;
 
 <br/>
 
