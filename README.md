@@ -5,6 +5,8 @@
 <div id="header" align="left">
 	<h1> Hi there, I'm Alyona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 	<h3>Developer from Yerevan, Armenia</h3>
+<br/>  
+	
 </div>
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/agolz/">
@@ -15,7 +17,8 @@
 	</a>
 </div>
 
-		    
+<br/>  
+
 <img src="https://user-images.githubusercontent.com/51645091/216479755-1474ef23-fe16-4e0d-853c-0d6507138370.svg" align="right" width="140" hight="140">
 
 <br/>  
