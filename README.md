@@ -22,7 +22,6 @@
 <img src="https://user-images.githubusercontent.com/51645091/216479755-1474ef23-fe16-4e0d-853c-0d6507138370.svg" align="right" width="140" hight="140">
 
 <br/>  
-<br/>  
 
 In 2018, I got a job at a company for the production of autonomous drones, which prompted me to delve into the study of flying robotics and programming. Since 2021, I have been studying at the [Ecole 42](https://www.42.fr) School of Computer Science, profile C/C++, Python.
 
