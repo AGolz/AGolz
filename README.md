@@ -6,7 +6,8 @@
 	<h1> Hi there, I'm Alyona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 	<h3>Developer from Yerevan, Armenia</h3>
 <br/>  
-	
+
+ 
 </div>
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/agolz/">
