@@ -72,7 +72,7 @@ In 2018, I got a job at a company for the production of autonomous drones, which
 <br/>
 <br/>
 	
-[My CV](https://github.com/AGolz/AGolz/files/10815571/CV_Maksimova.pdf)
+[My CV](https://agolz.github.io/by_me/cv)
 
 Looks like that's it (:
 
