@@ -19,9 +19,7 @@
 </div>
 <br/> 
 <div id="website" align="left">
-<a href="https://agolz.github.io/by_me/">
-	<img src="https://img.shields.io/website" up_color="blue" alt="Website"/>
-</a>
+	<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fagolz.github.io%2Fby_me%2F&up_message=agolz.github.io&up_color=blue">
 </div>
 <br/>  
 
