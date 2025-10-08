@@ -24,7 +24,7 @@
 </div>
 <br/>  
 
-In 2018, I got a job at a company for the production of autonomous drones, which prompted me to delve into the study of flying robotics and programming. Since 2021, I have been studying at the [Ecole 42](https://www.42.fr) School of Computer Science, profile C/C++, Python.
+In 2018, I got a job at a company producing autonomous drones, which inspired me to dive into flying robotics and programming. From 2021 to 2023, I studied at the Ecole 42 [Ecole 42](https://www.42.fr) School of Computer Science, focusing on C/C++ and Python. I am currently working as an independent developer.
 
 <br/>  
 
