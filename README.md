@@ -70,9 +70,6 @@ In 2018, I got a job at a company producing autonomous drones, which inspired me
   <img align="center" src="https://github.com/AGolz/github-stats/blob/master/github_stats.svg"
 </p>
 <br/>
-<br/>
-	
-[My CV](https://agolz.github.io/by_me/cv)
 
 Looks like that's it (:
 
