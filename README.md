@@ -3,7 +3,7 @@
 </div>	
 <div id="header" align="left">
 	<h1> Hi there, I'm Alyona! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-	<h3>Developer from Yerevan, Armenia</h3>
+	<h3>Technical Project Engineer | Embedded Systems | UAV Technologies | C | Python | Linux</h3>
 <br/>  
 
  
@@ -23,8 +23,11 @@
 	</a>
 </div>
 <br/>  
+Technical Project Engineer with experience in embedded systems, UAV technologies, and software development.
 
-In 2018, I got a job at a company producing autonomous drones, which inspired me to dive into flying robotics and programming. From 2021 to 2023, I studied at the Ecole 42 [Ecole 42](https://www.42.fr) School of Computer Science, focusing on C/C++ and Python. I am currently working as an independent developer.
+From 2021 to 2024, I completed the Ecole 42 [Ecole 42](https://www.42.fr) Computer Science program, focusing on C/C++, Python, Unix systems, algorithms, and low-level programming. 
+
+Currently, I work on software development projects and continue expanding my expertise in embedded systems, Linux, and modern technologies.
 
 <br/>  
 
