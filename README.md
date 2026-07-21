@@ -30,7 +30,7 @@ From 2021 to 2024, I completed the Ecole 42 [Ecole 42](https://www.42.fr) Comput
 <br/>
 <br/>
 Currently, I work on software development projects and continue expanding my expertise in embedded systems, Linux, and modern technologies.
-
+<br/>
 <br/>  
 
 
