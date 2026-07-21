@@ -24,8 +24,7 @@
 </div>
 <br/>  
 Technical Project Engineer with experience in embedded systems, UAV technologies, and software development.
-
-
+<br/>
 From 2021 to 2024, I completed the Ecole 42 [Ecole 42](https://www.42.fr) Computer Science program, focusing on C/C++, Python, Unix systems, algorithms, and low-level programming. 
 
 Currently, I work on software development projects and continue expanding my expertise in embedded systems, Linux, and modern technologies.
